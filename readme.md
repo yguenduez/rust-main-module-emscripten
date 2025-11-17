@@ -20,7 +20,7 @@ emcc cpp-side-module/side_module.cpp \
 ## Then build the main module
 
 ```sh
-cargo build --target wasm32-unknown-emscripten
+cargo +nightly build --target wasm32-unknown-emscripten
 ```
 
 ## Then serve the main module
