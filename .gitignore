@@ -1,0 +1,5 @@
+target/
+hello_world.js
+hello_world.wasm
+hello_world.html
+side_module.wasm
